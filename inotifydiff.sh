@@ -10,7 +10,7 @@
 
 usage() {
   echo "Usage:"
-  echo "  in-diff <file>|help"
+  echo "  inotifydiff <file>|help"
 
   exit 1
 }
